@@ -9,5 +9,6 @@ application/logs/*
 !application/logs/.htaccess
 
 user_guide/*
+captcha/*
 *~
 license.txt

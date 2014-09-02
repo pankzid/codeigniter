@@ -38,7 +38,7 @@
 |
 */
 
-$route['default_controller'] = "gmaps";
+$route['default_controller'] = "registrasi";
 $route['404_override'] = '';
 
 
